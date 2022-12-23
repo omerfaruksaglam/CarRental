@@ -1,0 +1,9 @@
+06KYL20,Honda,Benzine,4Doors,Automatic,300,Smoker
+06AY333,Renault,Diesel,2Doors,Manuel,200,Smoker
+16ANL400,Hyundai,Electric,2Doors,Automatic,400,Nonsmoker
+06BRM955,Toyota,Benzine,4Doors,Manuel,150,Smoker
+06EBS45,Passat,Benzine,4Doors,Automatic,500,Nonsmoker
+06MER01,Mercedes,Diesel,4Doors,Automatic,600,Nonsmoker
+06TLL97,Bmw,Benzine,4Doors,Automatic,550,Smoker
+06ELN06,Tesla,Electric,4Doors,Automatic,700,Nonsmoker
+06AAF760,Cıvıc,Benzine,4Doors,Automatic,350,Nonsmoker

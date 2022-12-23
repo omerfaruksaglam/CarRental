@@ -1,0 +1,3 @@
+06,Omer Faruk,Saglam,Ankara,Yes,2001
+16,anil,kivanc,bursa,No,1999
+07,doga,altekin,antalya,No,2001
